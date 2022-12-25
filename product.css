@@ -24,6 +24,29 @@ body {
   text-decoration: none;
 }
 
+.descr {
+  font-size: 64px;
+  font-weight: 600;
+  padding: 50px 100px;
+  color: #fff;
+}
+.descr p {
+  width: 900px;
+  line-height: 1;
+}
+
+.phone {
+  margin: 100px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.phone p {
+  margin-left: 20px;
+  font-size: 24px;
+  font-weight: 600;
+}
+
 /*
  * Dummy devices (replace them with your own or something else entirely!)
  */
